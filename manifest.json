@@ -7,7 +7,8 @@
     "scripts": ["priberam-search.js"]
   },
   "icons": {
-    "16": "icon16.png"
+    "16": "img/icon16.png",
+    "128": "img/icon128.png"
   },
   "manifest_version": 2
 }
