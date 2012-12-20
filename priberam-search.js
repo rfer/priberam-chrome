@@ -4,7 +4,7 @@ function searchPriberam(text) {
 }
  
 chrome.contextMenus.create({
-  "title": "Search Priberam.pt for '%s'",
+  "title": "Qual o significado de '%s'?",
   "contexts":["selection"],
   "onclick": searchPriberam
 });
